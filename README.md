@@ -75,10 +75,10 @@ Ensure you have the following installed:
 
 
 ## Demo Video
-[Insert demo video link here]
+[https://www.loom.com/share/3ade642d9f5f499894fef97d689e7e95?sid=c2d9cc12-89b4-4ce2-b77e-5e9a5c7945c4]
 
 ## Repository Link
-[Insert GitHub repository link here]
+[https://github.com/Madhavaraj7/creditsea-task]
 
 ## License
 This project is licensed under the MIT License.
