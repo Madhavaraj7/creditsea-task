@@ -6,6 +6,7 @@
     "start": "ts-node-dev src/index.ts",
     "dev": "nodemon",
     "build": "tsc "
+
   },
   "keywords": [],
   "author": "",
